@@ -1,5 +1,5 @@
 # Tushinskaya Svetlana
-![my-foto](I:\rs_school\rsschool-cv\photo_2022-09-01_00-31-09.jpg)
+![my-foto](photo_2022-09-01_00-31-09.jpg)
 Tel: +375259506047
 GitHub: [tigrassha](https://github.com/Tigrassha)
 Instagram: [Lisa__alis](https://instagram.com/lisa__alis?igshid=NDk5N2NlZjQ=)

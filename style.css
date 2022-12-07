@@ -1,0 +1,22 @@
+body{
+    background: gainsboro;
+}
+
+.my__foto{
+ height: 400px;
+}
+a{
+    text-decoration: none;
+}
+
+.dis{
+    font-style: italic;
+}
+
+.gitHub{
+    font-style: italic;
+}
+
+.inst{
+    font-style: italic;
+}

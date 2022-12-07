@@ -1,5 +1,5 @@
 # Tushinskaya Svetlana
-![my-foto](photo_2022-09-01_00-31-09.jpg)
+![my-foto](photo_2022-09-01_00-31-10.jpg)
 
 Contact:
 

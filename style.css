@@ -1,22 +1,75 @@
-body{
-    background: gainsboro;
+* {
+    box-sizing: border-box;
+    margin: 0;
 }
 
-.my__foto{
- height: 400px;
+html {
+    scroll-behavior: smooth;
 }
-a{
+
+body {
+
+    background: #dac8be;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
     text-decoration: none;
 }
 
-.dis{
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+.header{
+    background: #a08478;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+
+}
+
+
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    color: #493933;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+.nav-item:last-child{
+ padding-right: 50px;
+}
+.nav-link:hover {
+    
+    color: #201815;
+    
+    transition: .3s;
+}
+
+.my__foto {
+    height: 400px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.dis {
     font-style: italic;
 }
 
-.gitHub{
+.gitHub {
     font-style: italic;
 }
 
-.inst{
+.inst {
     font-style: italic;
 }

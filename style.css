@@ -18,11 +18,13 @@ a {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 1200px;
     margin: 0 auto;
-  }
-.header{
+}
+
+.header {
     background: #a08478;
+    margin-bottom: 30px;
 }
 
 .nav-list {
@@ -34,42 +36,81 @@ a {
 }
 
 
-
 .nav-link {
-    padding: 0 20px;
+    padding: 0 15px;
     line-height: 50px;
     color: #493933;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
 
 }
 
-.nav-item:last-child{
- padding-right: 50px;
-}
+
+
 .nav-link:hover {
-    
-    color: #201815;
-    
+    background-color: #201815;
+    color: #a08478;
     transition: .3s;
 }
 
-.my__foto {
-    height: 400px;
+.wrapper__about{
+    
+    background: #e9e8ec;
+    max-height: 730px;
+    max-width: 410px;
+    border-radius: 0 50px 50px 0;
 }
 
-a {
-    text-decoration: none;
+.section-my_foto{
+    margin: auto auto;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    
+}
+.section-title{
+    padding-top: 20px;
+    color: #504446;
+    width: 155px;
+    font-size: 30px;
+    margin-bottom: 15px;
+
 }
 
-.dis {
-    font-style: italic;
+.contacts{
+    margin: 0 auto;
+}
+.my__foto{
+    width: 330px;
+    border-radius: 8px;
 }
 
-.gitHub {
-    font-style: italic;
+.contacts-list{
+    font-size: 15px;
+    color: #2d1f18;
+
+}
+.contact-item{
+    display: flex;
+    
 }
 
-.inst {
-    font-style: italic;
+.item-title{
+    width: 80px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.item-text{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-link{
+    color: #2d1f18
+}
+
+.contact-link:hover {
+    background-color: #201815;
+    color: #e9e8ec;
+    transition: .3s;
 }

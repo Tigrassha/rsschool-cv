@@ -222,7 +222,38 @@ padding-bottom: 10px;;
     padding-left: 40px;
 }
 
+.footer{
+    background: #a08478;
+    height: 100px;
+}
 
+.footer-cont{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.github-elements{
+    margin-top: 25px;
+}
+.footer-elements{
+    margin-top: 50px;
+}
+
+.rss-elements{
+    margin-top: 25px;
+}
+.footer-link:hover{
+    opacity: 0.8;
+    transition: .3s;
+}
+
+.github-img{
+    height: 60px;
+}
+
+.rss-img{
+    height: 50px;
+}
 
 
 @media (max-width: 1146px) {
